@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PEC Mart</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password_click_here">Forgot Password? Click here!</string>
+    <string name="branch1">Computer Science</string>
+    <string name="branch2">Electronics</string>
+    <string name="branch3">Electrical</string>
+    <string name="branch4">Civil</string>
+    <string name="branch5">Mechanical</string>
+    <string name="branch6">Production</string>
+    <string name="branch7">Metallurgy</string>
+    <string name="branch8">Aerospace</string>
+    <string name="branch">Choose your branch</string>
+    <string name="category">Choose the category of item</string>
+    <string name="category1">Books and Novels</string>
+    <string name="category2">Stationery</string>
+    <string name="category3">Hostel Needs</string>
+    <string name="category4">Electronics and Appliances</string>
+    <string name="please_enter_your_phone_number">Please enter your phone number</string>
+    <string name="enter_your_pec_email_id_without_pec_ac_in">Enter your PEC email ID (without @pec.edu.in)</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="please_re_enter_your_password">Please re-enter your password</string>
+    <string name="loading_please_wait">Loading...please wait...</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="sell_items">Sell Items</string>
+    <string name="buy_items">Buy Items</string>
+</resources>

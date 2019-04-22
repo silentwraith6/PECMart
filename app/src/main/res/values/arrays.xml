@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="branchlist">
+        <item>@string/branch1</item>
+        <item>@string/branch2</item>
+        <item>@string/branch3</item>
+        <item>@string/branch4</item>
+        <item>@string/branch5</item>
+        <item>@string/branch6</item>
+        <item>@string/branch7</item>
+        <item>@string/branch8</item>
+    </string-array>
+    <string-array name="categorylist">
+        <item>@string/category1</item>
+        <item>@string/category2</item>
+        <item>@string/category3</item>
+        <item>@string/category4</item>
+    </string-array>
+</resources>

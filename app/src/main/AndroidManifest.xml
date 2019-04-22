@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.pecmart">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:name=".ApplicationClass"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".BuyHistoryDetails"></activity>
+        <activity android:name=".SellHistoryDetails" />
+        <activity android:name=".BuyingHistory" />
+        <activity android:name=".SellingHistory" />
+        <activity android:name=".seller_AcceptDecline" />
+        <activity android:name=".my_item_request_list" />
+        <activity android:name=".MyRequests" />
+        <activity android:name=".Buy2" />
+        <activity android:name=".MyItems" />
+        <activity android:name=".MyAccount" />
+        <activity android:name=".UploadImages" />
+        <activity android:name=".BuyActivity1" />
+        <activity android:name=".SellActivity1" />
+        <activity android:name=".Register" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
